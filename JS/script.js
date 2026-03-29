@@ -194,8 +194,10 @@ btnReset.addEventListener("click", function () {
     btnTrocarImagem.textContent = "Trocar Imagem";
 
     // Nome e descrição 
-    nomePerfil.textContent = "O Teu Nome";
-    descricaoPerfil.textContent = "A tua frase de apresentação aparece aqui.";
+    nomePerfil.textContent = "Sérgio Teixeira";
+    descricaoPerfil.textContent = "Biólogo com formação em evolução humana, em transição para desenvolvimento low-code com OutSystems.";
+
+
 
     // Cor do card
     cardPerfil.style.backgroundColor = "";
